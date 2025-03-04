@@ -4,7 +4,7 @@
 
 A web-based tool for creating, managing, and exporting Right Click Prompt packages.
 
-[![RCP Logo](network-diagram%20(2).svg)](https://kbanc85.github.io/rcp-package-builder/)
+[![RCP Package Builder](03002.png)](https://kbanc85.github.io/rcp-package-builder/)
 
 <a href="https://kbanc85.github.io/rcp-package-builder/" style="display: inline-block; background-color: #D63447; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px; margin: 20px 0;">
   🚀 LAUNCH RCP PACKAGE BUILDER
@@ -38,10 +38,10 @@ A web-based tool for creating, managing, and exporting Right Click Prompt packag
 - [RCP Package Builder Tutorial](https://youtu.be/2lXpC4Q142E)
 - [AI Adopters Club](https://aiadopters.substack.com)
 
-## Screenshots
+## About
 
 <div align="center">
-  <img src="03002.png" alt="RCP Package Builder Screenshot" width="800"/>
+  <img src="network-diagram (2).svg" alt="RCP Logo" width="100"/>
 </div>
 
 ## Try It Out
