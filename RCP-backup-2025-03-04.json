@@ -1,0 +1,219 @@
+[
+  {
+    "id": "3f83690d-5816-4e16-9220-e1142ee21555",
+    "isImported": false,
+    "name": "🦠 Mr Viral Mega Prompt Pack",
+    "prompts": [
+      {
+        "id": "833a45b0-0e48-4df6-93d4-26d1e71c5612",
+        "isImported": false,
+        "text": "Prompt Text Here",
+        "timestamp": "2025-03-04T17:21:54.071Z",
+        "title": "Sample Prompt 1"
+      },
+      {
+        "id": "cff6ab9a-accc-43e7-9752-f670e396be81",
+        "isImported": false,
+        "text": "text here",
+        "timestamp": "2025-03-04T17:22:23.338Z",
+        "title": "Sample Prompt 2"
+      },
+      {
+        "id": "6d74f7b1-1f1c-4f9e-9126-bfd5cee25861",
+        "isImported": false,
+        "text": "Text here",
+        "timestamp": "2025-03-04T17:22:11.869Z",
+        "title": "Sample Prompt 3"
+      }
+    ]
+  },
+  {
+    "id": "38225719-7f5f-4048-85d5-eb6b0fdd0cad",
+    "isImported": false,
+    "name": "🔴 RCP Tutorial",
+    "prompts": [
+      {
+        "id": "9491e698-b0a8-4a9c-bbe4-a07df61c001d",
+        "isImported": false,
+        "text": "# How to Use Right-Click Prompt\n\n## Organizing Prompts\n1. Click '+' next to 'My Folders' to create a new folder\n2. Click '+' on any folder to add a new prompt\n3. Give your prompt a title and paste your prompt text\n\n## Using Prompts\n1. Right-click anywhere in your browser or application\n2. Find 'Right Click Prompt' in the context menu\n3. Navigate to your folder and select your prompt\n4. The prompt will be copied to your clipboard automatically\n5. Paste it wherever you need (Ctrl+V or Cmd+V)\n\n## Auto-Paste Feature\n1. Enable 'Auto-Paste' toggle in this popup\n2. Grant permissions when prompted\n3. When you select a prompt from the right-click menu, it will try to automatically paste with formatting preserved\n4. Note: Auto-paste works in most text fields and editors but may not work in all contexts\n\n## Need More Help?\nVisit our guide at: https://aiadopters.substack.com/p/right-click-prompt",
+        "timestamp": "2025-03-03T20:25:42.635Z",
+        "title": "Getting Started with RCP"
+      },
+      {
+        "id": "fc69c3a9-d119-4c6a-a0ff-b1fb3d6ac14f",
+        "isImported": false,
+        "text": "hi",
+        "timestamp": "2025-03-03T20:25:40.551Z",
+        "title": "Test"
+      }
+    ]
+  },
+  {
+    "id": "8040bebe-dea0-40bd-93b5-edefa7075f8e",
+    "isImported": false,
+    "name": "📝 Content Creation",
+    "prompts": [
+      {
+        "id": "3472b437-5418-4042-b859-5941b2e55cba",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{topic}} - Subject of the blog post\n{{audience}} - Target readers (e.g., tech enthusiasts, parents)\n{{key_points}} - Main points to include in the introduction\n{{hook}} - Attention-grabbing opener (question, statistic, etc.)\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Copy/paste a related article or website content and say \"Use this as reference\"\n- Attach a PDF about the topic and say \"Extract key points from this document\"\n- Simply provide the topic and say \"Generate a blog introduction for {{topic}}\"\n\n# Prompt\nYou are a skilled content writer crafting an engaging introduction (approximately 100-150 words) \nfor a blog post about {{topic}}. \n\nYour target audience is {{audience}}. \n\nBegin with a compelling hook: {{hook}}. \n\nThen, seamlessly incorporate the following key points: \n{{key_points}}. \n\nWrite in a tone that is both engaging and informative, ensuring it resonates with {{audience}}. \nAim to pique their interest and set the stage for the rest of the post.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Blog Post Introduction"
+      },
+      {
+        "id": "599585be-2896-4859-9229-fccdbbb8608d",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{product}} - Name of the product\n{{USP}} - Unique selling proposition\n{{features}} - Key features (list 3-5)\n{{benefits}} - Benefits the product offers\n{{audience}} - Target buyers\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Attach a product brochure or spec sheet and say \"Use this to create a description\"\n- Paste a competitor's product description and say \"Create something similar for my product\"\n- Simply provide the product name and say \"Research and write a description for {{product}}\"\n\n# Prompt\nYou are an expert copywriter tasked with crafting a compelling product description \n(approximately 200-250 words) for {{product}}. \n\nStart by highlighting its unique selling proposition: \n{{USP}}. \n\nThen, detail its key features: \n{{features}}\n\nAnd emphasize the benefits: \n{{benefits}}. \n\nTailor your language and tone to resonate with {{audience}}, using persuasive, \ndescriptive, and sensory language that appeals to their emotions and needs. \nFocus on how the product can solve their problems or enhance their lives.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Product Description"
+      },
+      {
+        "id": "854b6834-cbb7-4095-a0b3-9e21e3b16fc4",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{audience}} - Target audience (e.g., subscribers, leads)\n{{action}} - Desired action (e.g., sign up, buy now)\n{{benefit}} - Key benefit they'll gain\n{{urgency}} - Reason to act now (e.g., limited time offer)\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Paste your landing page content and say \"Create a CTA for this page\"\n- Simply state \"Create a CTA for {{product/service}} targeting {{basic audience info}}\"\n- Provide examples of CTAs you like and say \"Create something similar for my product\"\n\n# Prompt\nYou are a seasoned content creator designing a powerful call-to-action (CTA) \nfor a marketing campaign targeting {{audience}}. \n\nYour goal is to persuade them to {{action}} by highlighting the key benefit: \n{{benefit}}. \n\nIncorporate a sense of urgency or exclusivity: \n{{urgency}}. \n\nUse a tone that is urgent, compelling, and action-oriented. \nStructure your CTA as a clear, concise command, followed by the benefit and urgency, \ne.g., \"Sign up today to unlock exclusive content—offer ends soon!\"",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Call-to-Action"
+      }
+    ]
+  },
+  {
+    "id": "14a403a1-902f-4fa7-bca8-0f376c9e2d54",
+    "isImported": false,
+    "name": "📊 Business Strategy",
+    "prompts": [
+      {
+        "id": "720e1a94-575f-43b7-9638-e1d2c3a31b9d",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{business_name}} - Your company name\n{{product_service}} - Your product or service\n{{competitor1}} - First main competitor\n{{competitor2}} - Second main competitor\n{{target_audience}} - Your ideal customers\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Attach competitor websites or marketing materials and say \"Analyze these competitors\"\n- Upload industry reports and say \"Extract competitor insights from this document\"\n- Simply state \"Analyze {{competitor1}} and {{competitor2}} for my business {{business_name}}\"\n\n# Prompt\nYou are a strategic consultant for {{business_name}}. \n\nCreate a comprehensive competitor analysis report for {{product_service}} examining \n{{competitor1}} and {{competitor2}}. \n\nFocus on their:\n\n1. Market positioning and unique value propositions\n2. Pricing strategies and product/service features\n3. Marketing approach and audience engagement tactics\n4. Strengths and weaknesses relative to {{business_name}}\n\nConclude with 3 actionable opportunities for {{business_name}} to gain competitive \nadvantage with {{target_audience}}. \n\nFormat your response with clear headings and bullet points for easy reference.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Competitor Analysis Report"
+      },
+      {
+        "id": "8d7a9f29-57dd-4af8-94e0-ba66b3fd80b1",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{business_name}} - Your company name\n{{product_name}} - Your product or service\n{{demographics}} - Target customer demographics\n{{budget}} - Available marketing budget\n{{timeframe}} - Implementation timeline\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload your business plan and say \"Extract acquisition strategy from this document\"\n- Paste your website content and say \"Develop acquisition strategies based on this\"\n- Simply ask \"Create a customer acquisition strategy for my {{type}} business with {{budget}}\"\n\n# Prompt\nYou are a market researcher for {{business_name}}. \n\nAnalyze customer acquisition strategies for {{product_name}} targeting \n{{demographics}} with a budget of {{budget}} over {{timeframe}}. \n\nProvide:\n\n1. Three optimal acquisition channels with ROI estimates\n2. Customized messaging approaches for each channel\n3. Key performance indicators to track success\n4. Potential challenges and mitigation strategies\n\nFormat your response as a strategic plan with clear sections, \nhighlighting the most cost-effective approaches first. \nInclude specific action items for implementation.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Customer Acquisition Strategy"
+      }
+    ]
+  },
+  {
+    "id": "bdc67160-41ad-4d4a-9e81-e5d2a4a86d94",
+    "isImported": false,
+    "name": "💻 Technical Development",
+    "prompts": [
+      {
+        "id": "3a44b95d-78e8-4fde-b78f-b8cb9e943e6f",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{function_name}} - Name of the function/method\n{{description}} - What the code does\n{{parameters}} - Inputs the function takes\n{{return_value}} - What the function returns\n{{example}} - Example usage code\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Paste your code directly and say \"Document this function\"\n- Upload a code file and say \"Create documentation for the main functions\"\n- Simply provide function signatures and say \"Generate documentation for these functions\"\n\n# Prompt\nYou are a meticulous software engineer documenting a function for other developers. \n\nWrite a comprehensive comment that includes:\n\n- Function name: {{function_name}}\n- Description: {{description}}\n- Parameters: {{parameters}} (specify types)\n- Return value: {{return_value}} (specify type)\n- Example usage: {{example}}\n\nUse a clear, concise, and technical tone. \nEnsure the comment is informative enough that another developer can understand \nand use the function without referring to the code itself.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "Code Documentation Template"
+      },
+      {
+        "id": "c6a0a867-b19b-4f07-b864-9c9e5d9ffe40",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{agent_purpose}} - Primary function of the AI agent\n{{environment}} - Where the agent will operate\n{{inputs}} - Data sources the agent will use\n{{outputs}} - Expected agent deliverables\n{{constraints}} - Limitations or requirements\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload a project requirements document and say \"Design an AI architecture based on this\"\n- Paste a project description and say \"Create an agent architecture for this scenario\"\n- Simply describe your use case and say \"Design an AI agent architecture for {{basic purpose}}\"\n\n# Prompt\nYou are an AI systems architect designing a unified framework for an AI agent \nwhose purpose is {{agent_purpose}} operating in {{environment}}. \n\nCreate an architecture plan that includes:\n\n1. Core components and their interactions\n2. Data flow diagram showing how {{inputs}} become {{outputs}}\n3. Required APIs and integration points\n4. Scalability and performance considerations\n5. Implementation of {{constraints}} as system guardrails\n\nFormat your response as a technical specification with clear sections, \nemphasizing modularity and reusability. \nInclude a high-level pseudocode example of a critical component.",
+        "timestamp": "2025-03-02T21:43:36.175Z",
+        "title": "AI Agent Architecture"
+      },
+      {
+        "id": "c61962a6-edbe-4cc7-b022-28adb2417cc4",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{process_type}} - Type of process to automate\n{{input_format}} - Format of input data\n{{output_format}} - Desired output format\n{{tools}} - Available tools or technologies\n{{success_metrics}} - How to measure success\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload workflow diagrams and say \"Design an automation pipeline based on this process\"\n- Paste process descriptions and say \"Create an automation solution for this workflow\"\n- Simply describe what you want to automate: \"Design a pipeline to automate {{basic process}}\"\n\n# Prompt\nYou are a process automation specialist designing a pipeline for {{process_type}}. \n\nCreate a comprehensive automation framework that:\n\n1. Processes {{input_format}} data and produces {{output_format}} results\n2. Leverages {{tools}} for maximum efficiency\n3. Includes error handling and quality control gates\n4. Monitors performance against {{success_metrics}}\n5. Allows for human review at critical decision points\n\nFormat your response as a detailed implementation plan with sequential stages, \ndependencies, and estimated resource requirements. \nInclude specific automation rules and logic for key transformation steps.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Automation Pipeline Design"
+      }
+    ]
+  },
+  {
+    "id": "c8d5971f-e8ea-492f-8439-3027de8d9152",
+    "isImported": false,
+    "name": "🤝 Customer Relations",
+    "prompts": [
+      {
+        "id": "3a052011-2257-4563-b24e-439f00376743",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{product}} - The product the customer asked about\n{{features}} - Key details/features of the product\n{{customer_name}} - Customer's name (if known)\n{{common_questions}} - Frequently asked follow-up questions\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Paste the customer's actual inquiry and say \"Write a response to this product question\"\n- Upload product documentation and say \"Use this to answer customer questions about {{product}}\"\n- Simply provide the product name and question topic for a generic response template\n\n# Prompt\nYou are a dedicated customer service agent responding to {{customer_name}}'s \ninquiry about {{product}}. \n\nBegin by thanking them for their interest. \n\nThen, provide a detailed yet easy-to-understand explanation of its key features: \n{{features}}. \n\nUse a friendly, helpful, and informative tone that makes the customer feel valued and supported. \n\nAnticipate potential follow-up questions such as {{common_questions}} by briefly addressing them. \n\nConclude by offering further assistance and encouraging them to reach out with any more questions.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Product Inquiry Response"
+      },
+      {
+        "id": "9ea4b0cf-5c35-4211-ab42-63d49067ad90",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{issue}} - The problem the customer is facing\n{{product}} - Product or service with the issue\n{{step1}} - First troubleshooting step\n{{step2}} - Second troubleshooting step\n{{step3}} - Third troubleshooting step\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload product manuals and say \"Create a troubleshooting guide for {{issue}} using this manual\"\n- Paste error logs or customer descriptions and say \"Develop steps to resolve this issue\"\n- Simply describe a common problem: \"Create a troubleshooting guide for {{basic issue}}\"\n\n# Prompt\nYou are an experienced technical support specialist assisting a customer \nwith {{issue}} for {{product}}. \n\nProvide a clear, step-by-step troubleshooting guide:\n\n1. {{step1}} \n   — After this step, ask the customer to check if the issue is resolved. \n   If not, proceed to the next step.\n\n2. {{step2}} \n   — Again, prompt them to verify if the problem persists.\n\n3. {{step3}} \n   — Finally, after this step, inquire if the issue has been fixed.\n\nUse a calm, reassuring tone throughout, emphasizing that you're there to help. \nIf the issue remains unresolved after these steps, encourage them to contact support \nfor further assistance, and provide contact details if possible.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Troubleshooting Guide"
+      }
+    ]
+  },
+  {
+    "id": "7239e5f8-b683-4ae7-a3ed-43130d839d98",
+    "isImported": false,
+    "name": "📱 Professional Communications",
+    "prompts": [
+      {
+        "id": "e4fab100-64d7-448c-a9f7-f32c7d5a84f8",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{meeting_title}} - Title of the meeting\n{{date}} - Date and time of the meeting\n{{participants}} - List of attendees\n{{topics}} - Key discussion points\n{{objectives}} - Desired outcomes\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload previous meeting notes and say \"Create an agenda based on follow-up items\"\n- Paste email threads about the meeting and say \"Generate an agenda based on these discussions\"\n- Simply request \"Create a {{duration}} meeting agenda for {{basic meeting purpose}}\"\n\n# Prompt\nYou are a meticulous executive assistant preparing a structured meeting agenda \nfor \"{{meeting_title}}\" on {{date}} with {{participants}}. \n\nOrganize the agenda as follows:\n\n1. Welcome and introduction (5 minutes)\n2. Review of previous action items (10 minutes)\n3. Main discussion topics: \n   {{topics}} \n   (allocate appropriate time)\n4. Questions and clarifications (10 minutes)\n5. Action items and next steps (10 minutes)\n6. Meeting wrap-up (5 minutes)\n\nState the meeting objectives upfront: \n{{objectives}}. \n\nFormat the agenda professionally with clear time allocations for each section. \nInclude any pre-meeting preparation required and who will lead each topic discussion.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Meeting Agenda Template"
+      },
+      {
+        "id": "3a112110-0fd2-4718-9f08-d4a1a4c76404",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{business_name}} - Your company/organization name\n{{main_topic}} - Primary focus of the newsletter\n{{updates}} - Recent news or developments\n{{offer}} - Special promotion or opportunity\n{{call_to_action}} - Desired recipient action\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload previous newsletters and say \"Create a new edition in this style\"\n- Paste company blog posts or press releases and say \"Turn this into a newsletter\"\n- Simply request \"Create a newsletter about {{main_topic}} for {{business_name}}\"\n\n# Prompt\nYou are a talented digital marketer crafting a monthly newsletter \nfor {{business_name}} focused on {{main_topic}}. \n\nCreate a compelling email that includes:\n\n1. An attention-grabbing subject line\n2. Warm, personalized greeting\n3. Brief company updates or news: \n   {{updates}}\n4. Featured content section on {{main_topic}}\n5. Special offer or announcement: \n   {{offer}}\n6. Clear call-to-action: \n   {{call_to_action}}\n7. Social media links and contact information\n\nUse a tone that aligns with {{business_name}}'s brand voice. \nStructure the newsletter with scannable sections, engaging subheadings, \nand minimal text blocks. Balance information with value to ensure \nreaders feel rewarded for their time.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Email Newsletter Template"
+      },
+      {
+        "id": "dfd603f2-8758-46ae-a003-615b1f795397",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{team_name}} - Your team or department\n{{week_date}} - Week being reported\n{{accomplishments}} - Completed tasks/milestones\n{{challenges}} - Issues encountered\n{{next_steps}} - Upcoming priorities\n{{resources}} - Needed support or materials\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload project tracking data and say \"Generate a status report based on this data\"\n- Paste team emails or chat logs and say \"Create a weekly report summarizing these updates\"\n- Simply request \"Create a status report for {{team_name}} covering the past week\"\n\n# Prompt\nYou are a detail-oriented project manager preparing a weekly status report \nfor {{team_name}} covering {{week_date}}. \n\nStructure your report with these sections:\n\n1. Executive Summary: \n   Brief overview of the week's progress\n\n2. Key Accomplishments: \n   {{accomplishments}}\n\n3. Challenges and Blockers: \n   {{challenges}}\n\n4. Next Week's Priorities: \n   {{next_steps}}\n\n5. Resource Needs: \n   {{resources}}\n\n6. Metrics and KPIs: \n   Relevant performance indicators\n\nFormat your report with clear headers, bullet points for easy scanning, \nand visual indicators (🟢 On Track, 🟡 At Risk, 🔴 Blocked) for status items. \nKeep the report concise but comprehensive, highlighting the most important information for stakeholders.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Weekly Status Report"
+      }
+    ]
+  },
+  {
+    "id": "5a776b45-be28-4b35-afa9-01a1dc0128cf",
+    "isImported": false,
+    "name": "📢 Marketing & Sales",
+    "prompts": [
+      {
+        "id": "7fc0cab3-7135-4f19-83ef-3a946fedc08e",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{brand_name}} - Your brand or company name\n{{campaign_goal}} - Purpose of the campaign\n{{target_audience}} - Who you're trying to reach\n{{platforms}} - Social media platforms to use\n{{timeline}} - Duration of the campaign\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload marketing materials and say \"Create a social media plan based on these assets\"\n- Paste competitor campaign examples and say \"Design a campaign similar to these\"\n- Simply request \"Create a social media campaign for {{brand_name}} to {{basic goal}}\"\n\n# Prompt\nYou are a social media strategist designing a campaign for {{brand_name}} \nwith the primary goal of {{campaign_goal}}. \n\nYour target audience is {{target_audience}} and you'll focus on these platforms: \n{{platforms}} over a timeline of {{timeline}}.\n\nDevelop a comprehensive campaign plan that includes:\n\n1. Campaign theme and creative concept\n2. Content calendar with post types for each platform\n3. Engagement strategies to boost interaction\n4. Hashtag strategy and potential partnerships\n5. Success metrics and tracking approach\n\nFor each platform, provide 2-3 specific post examples including copy and content description.\nInclude recommendations for paid promotion if relevant. Format your plan with clear \nsections and visual organization.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Social Media Campaign Plan"
+      },
+      {
+        "id": "bbad5492-415e-4f10-9291-074f8e74a5b3",
+        "isImported": false,
+        "text": "# Instructions\nReplace the variables with your specific information:\n{{product_service}} - Your offering\n{{primary_benefit}} - Main value proposition\n{{customer_pain}} - Problem you solve\n{{target_persona}} - Ideal customer profile\n{{competitors}} - Main alternatives to your solution\n\n# Alternative Usage\nInstead of filling in all variables, you can:\n- Upload product specifications and say \"Create a sales pitch based on these features\"\n- Paste customer testimonials and say \"Develop a pitch highlighting these benefits\"\n- Simply request \"Write a sales pitch for {{product_service}} targeting {{basic audience}}\"\n\n# Prompt\nYou are a persuasive sales professional creating a pitch for {{product_service}} \ntargeting {{target_persona}}. \n\nCraft a compelling sales presentation that:\n\n1. Opens with an attention-grabbing hook related to {{customer_pain}}\n2. Establishes credibility through brief company background\n3. Clearly articulates the primary benefit: \n   {{primary_benefit}}\n4. Differentiates from competitors: \n   {{competitors}}\n5. Includes proof points (statistics, testimonials, case studies)\n6. Addresses common objections\n7. Closes with a clear, low-pressure next step\n\nStructure your pitch to flow naturally from problem to solution, using conversational \nlanguage that resonates with {{target_persona}}. Include questions to engage the \nprospect throughout the presentation.",
+        "timestamp": "2025-03-02T21:43:36.176Z",
+        "title": "Sales Pitch Template"
+      },
+      {
+        "id": "6bbee2fd-20a8-426b-aed5-c9c2d3227adb",
+        "isImported": false,
+        "text": "​<System Role>\n\nYou are an expert digital marketing analyst with a deep understanding of audience psychology and effective content creation. \n\nYour goal is to analyze and break down the strategies used by popular online creators, focusing on psychological principles that enhance engagement and click-through rates. \n\nWrite in a clear, informative, and structured manner. \n\n<Now The Prompt>\n\nAnalyze the strategies used by {$Insert the Top creator} to attract {$ 34 billion} views on his content by breaking down 7 psychological effects and biases evident in his headlines. \n\nFor each strategy, include a headline example, an explanation of the psychological principle behind it, and actionable takeaways that content creators can implement. \n\n❶) Use a structured format with headings for each psychological strategy.\n \n❷) Aim for approximately 1,500 to 2,000 words in a conversational yet analytical tone, ensuring ideas are easy to digest. \n\n❸) Your writing should appeal to {$ digital marketers, content creators,} and anyone interested in understanding effective engagement techniques.",
+        "timestamp": "2025-03-03T20:29:19.730Z",
+        "title": "Analyze Top Creators"
+      }
+    ]
+  },
+  {
+    "id": "72a40135-bb9e-41dd-a4fe-37b732b40566",
+    "isImported": false,
+    "name": "✏️ Writing",
+    "prompts": [
+      {
+        "id": "bac8afac-3262-46ab-a1ed-0855ce76da1b",
+        "isImported": false,
+        "text": "Please write my team a preview of next weeks newsletter and include short social media snippets for community posts, linkedin post and twitter and a few strong hooks that are contextual.\n\nNo hashtags, no email subject lines, use 𝘗𝘭𝘦𝘢𝘴𝘦 𝘮𝘢𝘬𝘦 𝘵𝘩𝘦 𝘵𝘦𝘹𝘵 𝘤𝘭𝘦𝘢𝘳𝘦𝘳 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦 𝘯𝘢𝘵𝘶𝘳𝘢𝘭. 𝘜𝘴𝘦 𝘢𝘤𝘵𝘪𝘷𝘦 𝘷𝘰𝘪𝘤𝘦 𝘪𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 𝘱𝘢𝘴𝘴𝘪𝘷𝘦. 𝘉𝘳𝘦𝘢𝘬 𝘭𝘰𝘯𝘨 𝘱𝘢𝘳𝘢𝘨𝘳𝘢𝘱𝘩𝘴 𝘪𝘯𝘵𝘰 𝘴𝘩𝘰𝘳𝘵𝘦𝘳 𝘰𝘯𝘦𝘴, 𝘸𝘪𝘵𝘩 𝘯𝘰 𝘮𝘰𝘳𝘦 𝘵𝘩𝘢𝘯 2-3 𝘴𝘦𝘯𝘵𝘦𝘯𝘤𝘦𝘴 𝘦𝘢𝘤𝘩. 𝘙𝘦𝘮𝘰𝘷𝘦 𝘢𝘯𝘺 𝘶𝘯𝘯𝘦𝘤𝘦𝘴𝘴𝘢𝘳𝘺 𝘸𝘰𝘳𝘥𝘴, 𝘦𝘮𝘰𝘫𝘪𝘴, 𝘩𝘢𝘴𝘩𝘵𝘢𝘨𝘴, 𝘢𝘯𝘥 𝘧𝘪𝘭𝘭𝘦𝘳 𝘱𝘩𝘳𝘢𝘴𝘦𝘴. 𝘙𝘦𝘱𝘭𝘢𝘤𝘦 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘸𝘰𝘳𝘥𝘴 𝘸𝘪𝘵𝘩 𝘴𝘪𝘮𝘱𝘭𝘦𝘳 𝘢𝘭𝘵𝘦𝘳𝘯𝘢𝘵𝘪𝘷𝘦𝘴 (𝘦.𝘨., \"𝘶𝘴𝘦\" 𝘪𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 \"𝘶𝘵𝘪𝘭𝘪𝘻𝘦\"). 𝘋𝘰𝘯'𝘵 𝘢𝘥𝘥 𝘢 𝘴𝘶𝘮𝘮𝘢𝘳𝘺 𝘢𝘵 𝘵𝘩𝘦 𝘦𝘯𝘥. 𝘒𝘦𝘦𝘱 𝘵𝘩𝘦 𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘮𝘦𝘢𝘯𝘪𝘯𝘨 𝘣𝘶𝘵 𝘦𝘹𝘱𝘳𝘦𝘴𝘴 𝘪𝘵 𝘪𝘯 𝘢 𝘮𝘰𝘳𝘦 𝘤𝘰𝘯𝘷𝘦𝘳𝘴𝘢𝘵𝘪𝘰𝘯𝘢𝘭, 𝘴𝘵𝘳𝘢𝘪𝘨𝘩𝘵𝘧𝘰𝘳𝘸𝘢𝘳𝘥 𝘸𝘢𝘺. \n\noutput in artifact with proper formating of sections that are easy to scan by my team, and no code blocks.",
+        "timestamp": "2025-02-13T14:56:25.835Z",
+        "title": "NL Preview"
+      }
+    ]
+  }
+]
