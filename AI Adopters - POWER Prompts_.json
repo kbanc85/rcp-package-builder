@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8b7a4902-1fde-4833-b2eb-3dc711a137da",
+    "isImported": false,
+    "name": "🔴 POWER Prompts ",
+    "prompts": [
+      {
+        "id": "372d983e-cde1-4a89-8371-45c1ac1d26fb",
+        "isImported": false,
+        "text": "You are a [role] with deep expertise in [domain].  \nHere is my idea:  \n  \"[your idea in one sentence]\"  \nMy goal is to achieve:  \n  \"[specific outcome or metric].\"",
+        "timestamp": "2025-04-22T20:23:12.188Z",
+        "title": "Position your expertise"
+      },
+      {
+        "id": "05d9e5c5-494e-4caf-b930-495270731a1c",
+        "isImported": false,
+        "text": "You are an analytical critic.  \nReview the idea above and list:  \n1. Top 3 risks with brief explanations  \n2. Top 3 missed opportunities with brief explanations  \nFormat your answer as a numbered list.",
+        "timestamp": "2025-04-22T20:23:23.167Z",
+        "title": "Obstacle identification"
+      },
+      {
+        "id": "f6baa141-56a7-465b-b58f-abd48d81e479",
+        "isImported": false,
+        "text": "You are an innovation expert.  \nIgnoring all constraints, describe the ultimate version of my idea.  \n• List 5 bold enhancements  \n• Explain why each enhancement adds value",
+        "timestamp": "2025-04-22T20:23:34.962Z",
+        "title": "Wildcard expansion"
+      },
+      {
+        "id": "23890d6b-2f6c-4031-ad16-4fc840a43e8f",
+        "isImported": false,
+        "text": "You are a marketing specialist for [audience description].  \nHow would you adapt my idea to make it irresistible to them?  \n• Propose 3 targeted adjustments  \n• For each, explain the psychological trigger it leverages",
+        "timestamp": "2025-04-22T20:23:52.912Z",
+        "title": "Empathy targeting"
+      },
+      {
+        "id": "c563e0b8-0fe5-4fcb-acf8-0a5385459ea4",
+        "isImported": false,
+        "text": "You are a top 0.01 percent performer in [domain].  \nOutline a step-by-step implementation plan (5 steps).  \n• Include estimated timelines  \n• Define 2-3 key metrics to track success",
+        "timestamp": "2025-04-22T20:24:11.875Z",
+        "title": "Refinement plan"
+      }
+    ]
+  }
+]
